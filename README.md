@@ -4,4 +4,4 @@ The objective of this project was to use the dataset [Breast Cancer Coimbra](htt
 
 The dataset contains clinical features of 64 breast cancer patients and 52 healthy controls. There are 9 quantitative attributes (age, BMI, glucose, insulin, HOMA, leptin, adiponectin, resistin, MCP.1) and one binary class (healthy patient or cancer patient).
 
-Created by Florencia Denisse Costa and Guadalupe Sosa Ferro.
+Created by **Florencia Denisse Costa** and **Guadalupe Sosa Ferro**.
